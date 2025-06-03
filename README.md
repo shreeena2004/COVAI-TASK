@@ -26,7 +26,7 @@ A Streamlit-based web application for analyzing and forecasting daily public tra
 
 
 # Demo Video
-https://drive.google.com/file/d/1jCNUzDol0YcZpx5-ZV1r9p1BuhUJAIbh/view?usp=sharing
+https://drive.google.com/file/d/1O4rhasaGHU2P2lsqlNkI0JluLwlx6kGQ/view?usp=sharing
 
 
 
