@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime, timedelta
 import warnings
-warnings.filterWarnings('ignore')
+warnings.filterwarnings('ignore')
 
 st.set_page_config(
     page_title="🚌 Public Transport Analytics Dashboard",
@@ -540,5 +540,6 @@ st.sidebar.markdown("- Upload CSV with Date and service columns (2019-2024)")
 st.sidebar.markdown("- Use historical date range selector to filter data")
 st.sidebar.markdown("- Select specific services for focused analysis")
 st.sidebar.markdown("- Forecasting uses XGBoost to predict 2025 data")
+
 st.markdown("---")
 st.markdown("**Dashboard created with Streamlit** | Data visualization and forecasting for public transport analytics")
